@@ -32,7 +32,7 @@ Quando o Medusa encontrar uma credencial válida, ele vai mostrar algo como:
 ACCOUNT FOUND: [ftp] [ftp] Host: 192.168.56.102
 4) Validação do acesso
 
-Após encontrar um login válido, teste manualmente:
+Após encontrar um login válido, teste manual:
 
 ftp 192.168.56.102
 
