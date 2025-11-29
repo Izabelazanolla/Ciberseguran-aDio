@@ -1,0 +1,13 @@
+wordlists/users.txt
+  root
+  admin
+  ftp
+  user
+wordlists/passwords.txt
+  123
+  1234
+  12345
+  password
+  admin
+  root
+  ftp
